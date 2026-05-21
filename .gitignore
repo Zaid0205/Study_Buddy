@@ -1,0 +1,10 @@
+.env
+study_buddy_db/
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
