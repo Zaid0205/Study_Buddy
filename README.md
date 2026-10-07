@@ -104,6 +104,8 @@ StudyBuddy/
 │   └── retriever.py     # DualRetriever: ChromaDB + BM25 + RRF fusion
 ├── tools/
 │   └── rag_tools.py     # RAG-powered tool functions for the agent
-└── api/
-    └── server.py        # FastAPI REST API with session management
+├── api/
+│   └── server.py        # FastAPI REST API with session management
+└── notebooks/
+    └── Study_Buddy_AI_CP.ipynb  # Original exploration notebook
 ```
